@@ -1,0 +1,18 @@
+div.listaordenada ol {
+    color: rgb(251, 3, 164);
+    font-size: large;
+    font-family: 'Verdana';
+}
+
+div.lista-n-ordenada ul{
+    color: blue;
+    font-size: large;
+    font-family: 'tahoma';
+
+}
+
+h1 {
+    background-color: black;
+    text-align: center;
+    width: fit-content;
+}

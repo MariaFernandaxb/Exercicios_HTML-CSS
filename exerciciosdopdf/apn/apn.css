@@ -1,0 +1,32 @@
+ body {
+     background-color: rgb(250, 128, 177);
+     text-align: left;
+     color: rgb(40, 1, 9);
+ }
+
+ div.photo img {
+    border: 3px solid #d60e5e;
+    border-radius: 90px;
+    width: 100px;
+
+ }
+
+ div.portfólio img {
+     border-style: dashed;
+     width: 50px;
+     display: inline;
+
+ }
+
+ pre {
+     display: flex;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ p {
+     font-family: 'Courier New', Courier, monospace;
+     background-color: rgb(186, 24, 86);
+     color: white;
+     width: 200px;
+
+ }

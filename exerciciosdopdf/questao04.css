@@ -1,0 +1,14 @@
+body{
+    background-color: blanchedalmond;
+}
+
+label {
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+input, textarea {
+    border-style:dotted;
+    border-radius: 25px;
+    display: flex;
+    justify-content:end;
+}

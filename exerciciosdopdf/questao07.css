@@ -1,0 +1,19 @@
+body{
+    background: rgb(250, 155, 248);
+}
+
+div.tabela th{
+    background-color: rgb(246, 108, 184);
+    color: rgb(115, 0, 71);
+    text-align: center;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div.tabela td{
+    background-color: rgb(246, 143, 220);
+    color: rgb(97, 3, 22);
+    text-align: center;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

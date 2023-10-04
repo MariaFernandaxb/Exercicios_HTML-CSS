@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(12, 12, 0);
+    font-size: large;
+    text-align: center;
+}
+
+h1,h3 {
+    color: rgb(12, 47, 246) ;
+    border-color: yellow;
+    font-family: 'tahoma';
+
+}
+
+h2 {
+    font-size: large;
+    color: rgb(252, 252, 7);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif   
+
+}
+
+img {
+    width: 200px;
+}

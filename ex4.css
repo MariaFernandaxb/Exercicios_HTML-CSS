@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+
+}
+
+div.texto {
+    color: blue;
+    text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div.logo img {
+    display: block;
+    margin: auto;
+    max-width: 200px;
+    border: 8px solid rgb(0, 208, 255);
+}

@@ -1,0 +1,19 @@
+body {
+    background: rgb(196, 230, 253);
+    text-align: center;
+}
+
+div.texto {
+    font-size: x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+div.links a{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    border-bottom: medium solid #6b53f5;
+    color:rgb(49, 2, 106);
+}
+

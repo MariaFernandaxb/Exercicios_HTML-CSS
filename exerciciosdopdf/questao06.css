@@ -1,0 +1,10 @@
+body {
+    background: rgb(4, 71, 8);
+}
+
+div.tabela table{
+    text-align: center;
+    color: rgb(241, 235, 235);
+    font-family: cursive;
+    
+}
